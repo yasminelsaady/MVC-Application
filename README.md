@@ -5,7 +5,7 @@ CRUD by Asp.net core, Entity Framework, Sql Server
 
 ### Get list of movies
  #### ordered by descending of rate 
- #### every movie has a poster 
+ #### get one movie
 ### Add a movie 
  #### all fields are required
  #### poster should end with '.jpg' or '.png', its size should not be more 1MB
